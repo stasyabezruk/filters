@@ -1,0 +1,25 @@
+.search-wrapper {
+    position: relative;
+    display: flex;
+    width: 250px;
+
+    .svg {
+        position: absolute;
+        top: 14px;
+        margin-left: 8px;
+    }
+
+    input {
+        border: none;
+        background-color: #f0f1f6;
+        height: 43px;
+        width: 250px;
+        border-radius: 25px;
+        outline: none;
+    }
+    input[type="text"] {
+        padding-left: 30px;
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+}
