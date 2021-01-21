@@ -8,4 +8,3 @@
 <li>Typescript</li>
 <li>Redux-toolkit, axios, thunks</li>
 </ul>
-<i>I didn't see the point to do api call at each user interaction, because the data will be the same. The reason to make api call at each user interaction is when BE will send the new data for example</i>
